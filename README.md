@@ -1,2 +1,2 @@
-# terminal-colorscheme
+# terminal_colorscheme
 
